@@ -1,10 +1,19 @@
 {
     "name": "message-queue",
     "version": "1.0.0",
-    "description": "service for handling message queues",
+    "description": "Message Queue API with RabbitMQ, Redis and AWS SES",
     "main": "index.js",
     "author": "annaavanesyan",
+    "keywords": [
+        "message queue",
+        "rabbitmq",
+        "redis"
+    ],
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/annaavanesyan/message-queue"
+    },
     "dependencies": {
         "amqp": "^0.2.7",
         "amqplib": "^0.5.5",
