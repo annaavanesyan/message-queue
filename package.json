@@ -1,0 +1,33 @@
+{
+    "name": "message-queue",
+    "version": "1.0.0",
+    "description": "service for handling message queues",
+    "main": "index.js",
+    "author": "annaavanesyan",
+    "license": "MIT",
+    "dependencies": {
+        "amqp": "^0.2.7",
+        "amqplib": "^0.5.5",
+        "dotenv": "^8.2.0",
+        "http": "^0.0.0",
+        "koa": "^2.11.0",
+        "koa-bodyparser": "^4.2.1",
+        "koa-respond": "^2.1.0",
+        "koa-router": "^7.4.0",
+        "lodash": "^4.17.14",
+        "nconf": "^0.10.0",
+        "redis": "^2.8.0",
+        "validator": "^12.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^6.1.0",
+        "eslint-config-prettier": "^2.9.0",
+        "eslint-config-standard": "^11.0.0",
+        "eslint-plugin-import": "^2.11.0",
+        "eslint-plugin-node": "^6.0.1",
+        "eslint-plugin-prettier": "^2.6.0",
+        "eslint-plugin-promise": "^3.7.0",
+        "eslint-plugin-standard": "^3.0.1",
+        "prettier": "^1.12.1"
+    }
+}
