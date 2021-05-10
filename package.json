@@ -23,7 +23,7 @@
         "koa-bodyparser": "^4.2.1",
         "koa-respond": "^2.1.0",
         "koa-router": "^7.4.0",
-        "lodash": "^4.17.14",
+        "lodash": "^4.17.21",
         "nconf": "^0.10.0",
         "redis": "^2.8.0",
         "validator": "^12.1.0"
